@@ -1,25 +1,32 @@
-# 📝 Todo App (React)
+Here is a clean, professional English version that closely matches the structure and style of your original Persian README:
+Markdown# 📝 Todo App (React)
 
-یک برنامه ساده و کاربردی برای مدیریت کارها (Todo List) که با **React** ساخته شده است.
+A simple and practical task management application (Todo List) built with **React**.
 
-## 🚀 امکانات
-- اضافه کردن Todo جدید
-- حذف Todo
-- علامت‌گذاری Todo به عنوان انجام‌شده
-- رابط کاربری ساده و قابل توسعه
-- پیاده‌سازی شده با React Hooks
+## 🚀 Features
+- Add new todos  
+- Delete todos  
+- Mark todos as completed  
+- Clean and extensible user interface  
+- Implemented using React Hooks  
 
-## 🛠 تکنولوژی‌ها
-- React
-- JavaScript (ES6)
-- CSS
-- Create React App
+## 🛠 Technologies
+- React  
+- JavaScript (ES6+)  
+- CSS  
+- Create React App  
 
-## 📦 نصب و اجرا
+## 📦 Installation & Setup
 
-ابتدا پروژه را کلون کنید:
+Clone the repository first:
 
 ```bash
 git clone https://github.com/your-username/todo.git
 cd todo
+Then install dependencies and start the application:
+Bash# Install dependencies
+npm install
 
+# Start development server
+npm start
+The application will be available at http://localhost:3000.
